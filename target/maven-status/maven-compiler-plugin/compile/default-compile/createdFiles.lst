@@ -1,0 +1,4 @@
+com\payment\slip\config\WebConfig.class
+com\payment\slip\controller\UserController.class
+com\payment\slip\SlipApplication.class
+com\payment\slip\model\User.class
